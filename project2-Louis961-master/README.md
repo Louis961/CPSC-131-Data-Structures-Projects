@@ -1,17 +1,17 @@
 # Project 2: Rad.io Music
 ### CSUF CPSC 131, Spring 2019
 
-##Louis Zuckerman
+## Louis Zuckerman
 
-##louiszman@csu.fullerton.edu
+## louiszman@csu.fullerton.edu
 
-##Introduction
+## Introduction
 Welcome to Rad.io, you've been hired to work on our music streaming app, think of it as Spotify
 only more rad! You're in charge of handling our customer’s song list. When a user selects a
 playlist it will load into the list a number of songs. Users can skip to the next song, move to the
 previous, they can select a song to play next or select a song to add to the end of their list.
 
-##Objective
+## Objective
 You are given two header files, Song.hpp and RadList.hpp. Song holds a song’s name, artist,
 album, duration (in seconds) and whether or not it contains explicit lyrics. RadList keeps track
 of all Song objects in the linked list List . RadList also has an iterator that points to the Song
@@ -48,5 +48,3 @@ successfully.
 ● main.cpp : The main function tests the output of your functions. You may wish to add
 additional tests. During grading your main.cpp file will be replaced with the one you were
 provided with.
-● README.md : You must edit this file to include your name and CSUF email. This
-information will be used so that we can enter your grades into Titanium.
