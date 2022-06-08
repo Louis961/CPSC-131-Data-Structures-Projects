@@ -44,7 +44,11 @@ Each test will be defined to occur at a specific date and time; having Main.cpp 
 
 ## Source Code Files
 You are given “skeleton” code files with declarations that may be incomplete and don’t have any implementation. Implement the code and ensure that all the tests in Main.cpp pass successfully.
+
 ●	GateControl.cpp: This is to be completed. Your code should go into this file, not the .h file.
+
 ●	GateControl.hpp: This is already completed. It contains declarations of the Authorization and Transaction structures, including the associated map and vector. You may add data and functions if desired to help your implementation but you’re not required to do so.
+
 ●	Main.cpp: This is already completed. It’s provided for you to use to test your software while you’re writing it. It has several functions whose names begin with Test…; you can comment out the calls to tests of functions that you haven’t implemented yet. You may change this file if you wish to add helpful functions for your own testing.
+
 When we test your project, we’ll discard your version of Main.cpp and replace it with a different version of Main.cpp, not the one you were given. Our version will use different test data to prevent you from writing code that handles only specific test cases.
